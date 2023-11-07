@@ -1021,7 +1021,7 @@ footer .copyright {
   /* About Page Responsive - END*/
 
   /* Contact Page Responsive - START*/
-  #contact-details {
+  #contact-details { 
     flex-direction: column;
   }
 
@@ -1037,10 +1037,10 @@ footer .copyright {
     margin: 10px;
     padding: 30px 10px;
     flex-wrap: wrap;
-}
-#form-details form {
-  width: 100%;
-  margin-bottom: 30px;
-}
+  }
+  #form-details form {
+    width: 100%;
+    margin-bottom: 30px;
+  }
   /* Contact Page Responsive - END*/
 }
